@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="25" size="12.000000 14.819188" />
+    <ImageTarget name="24" size="12.000000 14.819188" />
+    <ImageTarget name="23" size="12.000000 14.819188" />
+    <ImageTarget name="22" size="12.000000 14.819188" />
+    <ImageTarget name="21" size="12.000000 14.819188" />
+    <ImageTarget name="20" size="12.000000 14.819188" />
+    <ImageTarget name="19" size="12.000000 14.819188" />
+    <ImageTarget name="18" size="12.000000 14.819188" />
+    <ImageTarget name="17" size="12.000000 14.819188" />
+    <ImageTarget name="16" size="12.000000 14.819188" />
+    <ImageTarget name="15" size="12.000000 14.819188" />
+    <ImageTarget name="14" size="12.000000 14.819188" />
+    <ImageTarget name="13" size="12.000000 14.819188" />
+    <ImageTarget name="12" size="12.000000 14.819188" />
+    <ImageTarget name="11" size="12.000000 14.819188" />
+    <ImageTarget name="10" size="12.000000 14.819188" />
+    <ImageTarget name="9" size="12.000000 14.819188" />
+    <ImageTarget name="8" size="12.000000 14.819188" />
+    <ImageTarget name="7" size="12.000000 14.819188" />
+    <ImageTarget name="6" size="12.000000 14.819188" />
+    <ImageTarget name="5" size="12.000000 14.819188" />
+    <ImageTarget name="4" size="12.000000 14.819188" />
+    <ImageTarget name="3" size="12.000000 14.819188" />
+    <ImageTarget name="2" size="12.000000 14.819188" />
+    <ImageTarget name="1" size="12.000000 14.819188" />
+  </Tracking>
+</QCARConfig>

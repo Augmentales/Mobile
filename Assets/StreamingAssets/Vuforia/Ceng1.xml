@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="darkmagician" size="5.000000 6.743516" />
+    <ImageTarget name="cute_monster" size="5.000000 6.723647" />
+    <ImageTarget name="bluedragon" size="5.000000 6.729106" />
+    <ImageTarget name="kart" size="9.000000 5.619375" />
+    <ImageTarget name="blue" size="9.000000 9.000000" />
+  </Tracking>
+</QCARConfig>
